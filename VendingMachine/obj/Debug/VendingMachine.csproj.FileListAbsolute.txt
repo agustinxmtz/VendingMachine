@@ -1,0 +1,16 @@
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+D:\VMProject\VendingMachine\obj\Debug\MainWindow.g.cs
+D:\VMProject\VendingMachine\obj\Debug\App.g.cs
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+D:\VMProject\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\VMProject\VendingMachine\bin\Debug\VendingMachine.exe
+D:\VMProject\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\VMProject\VendingMachine\obj\Debug\App.baml
+D:\VMProject\VendingMachine\obj\Debug\MainWindow.baml
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.g.resources
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.exe
+D:\VMProject\VendingMachine\obj\Debug\VendingMachine.pdb
